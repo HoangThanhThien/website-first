@@ -924,6 +924,7 @@
     width: 100%;
     opacity: 0.6;
     transition: all ease-in-out .3s;
+    object-fit: cover;
 }
 
 .sidebar__link-img-three:hover img{
