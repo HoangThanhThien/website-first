@@ -12,7 +12,8 @@
 }
 
 html {
- font-size: 62.5%;
+/* có thể dùng 10px */
+ font-size: 62.5%;  
  line-height: 1.6rem;
  font-family: 'Roboto Condensed', sans-serif;
  box-sizing: border-box;
